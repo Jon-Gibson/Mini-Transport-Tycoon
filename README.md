@@ -6,7 +6,7 @@ Overview
 Mini Transport Tycoon (MTT) is a small, fast-paced RTS game built in OCaml
 as the final project for the CS3110 course at Cornell University in Fall 2016.
 It is heavily inspired by [openTTD](http://www.openttd.org/en/) and [Mini Metro](http://dinopoloclub.com/minimetro/).
-It was built by Dan Liu, Jonathan Gibson, Maksis Knutins, and Patrick Walsh.
+It was built by Dan Liu, Jonathon Gibson, Maksis Knutins, and Patrick Walsh.
 
 The main objective of the game is to earn $2,500 by transporting goods between
 locations on the map. In addition to buying cars, trucks and cargo, you can
